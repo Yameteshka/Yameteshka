@@ -10,57 +10,53 @@
 
 ---
 
-### 🔮 About Me
+### About Me
 
-- 🧿 I’m into **Machine Learning**, **Computer Vision**, and **Natural Language Processing**
-- 🌱 Currently diving into **Deep Learning**, **Reinforcement Learning**, and **OpenCV**
-- 🤝 Looking to collaborate on:
-  - 🎨 AI-powered creative tools  
-  - 🕹️ Vision-based games  
-  - 🧬 Experimental ML projects  
-- 💬 Reach out via [Telegram](https://t.me/emzzes)
+Currently exploring the ML universe from all sides — still figuring out where to land.  
+Right now I’m drawn to self-driving cars and computer vision,  
+but I’m also diving deep into NLP, Deep Learning, and Reinforcement Learning.  
+
+It’s a lot to take in, but I like the process of connecting the dots.  
+Languages: English
+
+Contact: [Telegram](https://t.me/emzzes)  
 
 ---
 
-### 🧠 Tech Stack & Skills
+### Tech Stack
 
-```yaml
-Languages:
-  - Python
-  - C++
-  - Java
-  - Dart
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50px"><br/>PyTorch
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50px"><br/>TensorFlow
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opencv.svg" width="50px"><br/>OpenCV
+    </td>
+    <td align="center">
+     <img src="https://raw.githubusercontent.com/facebookresearch/detectron2/main/.github/Detectron2-Logo-Horz.svg" width="50px"><br/>Detectron2
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50px"><br/>Jupyter
+    </td>
+    <td align="center">
+      <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="50px"><br/>HuggingFace
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50px"><br/>Scikit-learn
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="50px"><br/>Pandas
+    </td>
+  </tr>
+</table>
 
-Computer Vision:
-  - PyTorch
-  - TensorFlow
-  - YOLO (v8)
-  - ResNet50
-  - Vision Transformer
-  - Segment Anything Model (SAM)
 
-NLP:
-  - HuggingFace Transformers
-  - BERT
-  - Tokenization, Embeddings, Seq2Seq
-  - Text classification & cleaning
-
-Data Science:
-  - Pandas, Numpy, Matplotlib
-  - Jupyter Notebooks
-
-Dev Tools:
-  - Git & GitLab
-  - React (basic)
-
-Soft Skills:
-  - Teamwork
-  - Fast adaptation
-  - Presenting ideas
-
-Languages:
-  - English (B2)
-```
 
 ---
 
